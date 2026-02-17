@@ -1,0 +1,13 @@
+
+{
+  "users": [
+    {
+      "User_Code": "BK0001",
+      "Password": "admin123"
+    },
+    {
+      "User_Code": "BK0002",
+      "Password": "9123456780"
+    }
+  ]
+}
